@@ -8,4 +8,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Code coverage
-![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/:organization/:project/:definitionId)
+![Codacy coverage](https://img.shields.io/codacy/coverage/:projectId)

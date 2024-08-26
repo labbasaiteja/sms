@@ -8,4 +8,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Code coverage
-![Codacy coverage](https://img.shields.io/codacy/coverage/:projectId)
+![Gitlab Code Coverage](https://img.shields.io/gitlab/pipeline-coverage/:project)
+

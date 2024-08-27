@@ -1,7 +1,7 @@
 def incrementAndCheckEven(a):
     a = a + 1
     print("incremented value",a)
-    if(a%2==0):
+    if(a%'2'==0):
         print("Is even")
     else:
         print("Is not even")
